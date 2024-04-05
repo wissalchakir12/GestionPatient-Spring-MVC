@@ -6,11 +6,11 @@
 - entities <br>
 -repository<br>
 -web</p>
-<img src="./captures/structure.PNG">
+<img src="./Captures/structure.PNG">
 <h3>L'entité patient :</h3>
 <p>
 Dans le package "entities", j'ai créé l'entité "Patient" avec ses attributs</p>
-<img src="./captures/Entite.PNG">
+<img src="./Captures/Entite.PNG">
 
 <h3>L'interface PatientRepository (Spring Data)</h3>
 <img src="./captures/Reposi.PNG">
@@ -22,5 +22,4 @@ Dans le package "entities", j'ai créé l'entité "Patient" avec ses attributs</
 
 <h3>La vue responsable de l'affichage aux utilisateurs :</h3>
 <img src="./Captures/vue1.PNG">
-
 <img src="./Captures/vue2.PNG">
